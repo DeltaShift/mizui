@@ -1,0 +1,20 @@
+{
+  "name": "mizui",
+  "version": "1.0.0",
+  "description": "Mizui Template Engine developed by Mizukaze ( github username mizukaze554 ) under DeltaShift Organization",
+  "main": "src/mizui.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaShift/mizui.git"
+  },
+  "keywords": ["template", "engine", "mizui"],
+  "author": "Mizukaze ( mizukaze554 )",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeltaShift/mizui/issues"
+  },
+  "homepage": "https://github.com/DeltaShift/mizui#readme"
+}
